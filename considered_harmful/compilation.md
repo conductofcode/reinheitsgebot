@@ -22,3 +22,7 @@ sys     5m37.441s
 ```
 
 Don't you just hate these kinds of things? I mean, come on, why does it take nowadays' computers still hours(!) to come to that conclusion?
+
+## Further reading
+
+* [Static typing considered harmful](http://blog.jayfields.com/2008/02/static-typing-considered-harmful.html)
