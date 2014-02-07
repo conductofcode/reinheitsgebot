@@ -4,7 +4,7 @@ Manual compilation is a weakness of the runtime environment not to be able to do
 
 ## Differentiation
 
-This doesn't imply what we sometimes refer to as "compiled languages" are in any way evil. Also, optional code transformation steps, e.g. for performance reasons, or for hiding code are a good thing. But the necessity to *always* execute manual steps is evil.
+This doesn't imply what we sometimes refer to as "compiled languages" are in any way evil. Also, optional code transformation steps, e.g. for performance reasons, to be able to ship stuff in a single file or even for hiding code are a good thing. But the necessity to *always* execute manual steps is evil.
 
 ### Automation
 
