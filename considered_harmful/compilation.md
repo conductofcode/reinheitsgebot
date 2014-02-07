@@ -15,6 +15,7 @@ First and foremost, it requires a further step which can easily be automated. No
 Second, compiler tools usually require a bunch of parameters. Invoking the compiler is not art but boilerplate, so this usually results in subpar efficiency, and that again leads to:
 
 ![XKCD: Compiling](http://imgs.xkcd.com/comics/compiling.png)
+*[XKCD: Compiling](http://xkcd.com/303/)*
 
 ### Fail
 
