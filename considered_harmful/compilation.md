@@ -41,8 +41,7 @@ The disruptions of having to execute manual compilation steps kills creativity a
 
 * [Static typing considered harmful](http://blog.jayfields.com/2008/02/static-typing-considered-harmful.html)
 * [What to do while compiling?](https://productivity.stackexchange.com/questions/970/what-to-do-while-compiling), especially this answer:
-
-> I'm not a software developer so hopefully this question isn't totally ignorant, but if
-> you're doing tens of edit/compile cycles a day and each compile cycle takes 10 minutes,
-> then it seems like a good use of that time would be using it to work on shortening 
-> the compile cycle. 
+  > I'm not a software developer so hopefully this question isn't totally ignorant, but if
+  > you're doing tens of edit/compile cycles a day and each compile cycle takes 10 minutes,
+  > then it seems like a good use of that time would be using it to work on shortening 
+  > the compile cycle. 
