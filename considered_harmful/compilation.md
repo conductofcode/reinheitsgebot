@@ -31,7 +31,7 @@ user    96m47.171s
 sys     5m37.441s
 ```
 
-I mean, come on, why does it take nowadays' computers still hours(!) to come to that conclusion?
+Come on, why does it take nowadays' computers still hours(!) to come to that conclusion?
 
 ## Conclusion
 
