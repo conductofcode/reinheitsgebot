@@ -35,7 +35,7 @@ Come on, why does it take nowadays' computers still hours(!) to come to that con
 
 ## Conclusion
 
-The disruptions of having to execute manual compilation steps kills creativity and RAD.
+The disruptions of having to execute manual compilation steps kills creativity and [RAD](http://de.wikipedia.org/wiki/Rapid_Application_Development).
 
 ## Further reading
 
