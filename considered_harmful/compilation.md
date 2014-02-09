@@ -10,17 +10,19 @@ This doesn't imply what we sometimes refer to as "compiled languages" are in any
 
 First and foremost, it requires a further step which can easily be automated. Not automating it means wasting developer time.
 
+### Invoking the compiler is not art but boilerplate
+
+Second, compiler tools usually require a bunch of parameters. You need to pass a multitude of them (eventually making you create build scripts as a workaround), never know the right ones (chosing based on "sounds good" principle), and may even chose the wrong ones (changing the behaviour of the resulting program).
+
 ### Compilation time
 
-Second, compiler tools usually require a bunch of parameters. Invoking the compiler is not art but boilerplate, so this usually results in subpar efficiency, and that again leads to:
+Third, compilation in lots of cases is so painstakingly slow that people start wondering what do. This may be because of the afforementioned parameter hell, or because of inefficient build scripts, or other reasons. What it causes is this:
 
 ![XKCD: Compiling](http://imgs.xkcd.com/comics/compiling.png)
 
 *[XKCD: Compiling](http://xkcd.com/303/)*
 
-### Fail
-
-Third: Don't you just hate these kinds of things? 
+Then, coming back, you discover this:
 
 ```sh
 query_expression.cpp:(.text+0x24b4): undefined reference ...
@@ -31,7 +33,9 @@ user    96m47.171s
 sys     5m37.441s
 ```
 
-Come on, why does it take nowadays' computers still hours(!) to come to that conclusion?
+Why does it take nowadays' computers still hours(!) to come to that conclusion?
+
+It's not better if compilation only takes minutes, it's actually worse: That's too short to start something new, but long enough to interrupt your flow.
 
 ## Conclusion
 
