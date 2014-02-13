@@ -16,7 +16,7 @@ Second, compiler tools usually require a bunch of parameters. You need to pass a
 
 ### Compilation time
 
-Third, compilation in lots of cases is so painstakingly slow that people start wondering what do. This may be because of the afforementioned parameter hell, or because of inefficient build scripts, or other reasons. What it causes is this:
+Third, compilation in lots of cases is so painstakingly slow that people start wondering what to do. This may be because of the afforementioned parameter hell, or because of inefficient build scripts, or other reasons. What it causes is this:
 
 ![XKCD: Compiling](http://imgs.xkcd.com/comics/compiling.png)
 
