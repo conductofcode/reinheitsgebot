@@ -5,4 +5,5 @@ Writing getter and setter method breaks data encapsulation. It allows to leak im
 ## Further reading
 
  * http://typicalprogrammer.com/doing-it-wrong-getters-and-setters/
+ * http://artur.ejsmont.org/blog/content/why-are-setters-and-getters-bad-for-object-oriented-design
  * http://www.javaworld.com/article/2073723/core-java/why-getter-and-setter-methods-are-evil.html
